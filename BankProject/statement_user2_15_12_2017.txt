@@ -1,0 +1,2 @@
+Your transaction was successful user2, it took place on 2017-12-15 16:52:56.73 and your current BALANCE is: 2.250,00 €
+Your transaction was successful user2, it took place on 2017-12-15 16:53:02.554 and your current BALANCE is: 2.170,00 €
